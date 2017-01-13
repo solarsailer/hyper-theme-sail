@@ -1,0 +1,20 @@
+{
+  "name": "hyper-theme-sail",
+  "version": "0.1.0",
+  "description": "Sail theme for Hyper",
+  "license": "MIT",
+  "repository": "solarsailer/hyper-theme-sail",
+  "author": {
+    "name": "Matthieu Oger",
+    "url": "solarsailer.net"
+  },
+  "keywords": [
+    "hyper",
+    "hyper-theme",
+    "terminal",
+    "term",
+    "theme",
+    "hyperterm"
+  ],
+  "main": "index.js"
+}
