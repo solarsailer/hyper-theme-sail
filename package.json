@@ -16,5 +16,12 @@
     "theme",
     "hyperterm"
   ],
-  "main": "index.js"
+  "main": "index.js",
+  "scripts": {
+    "test": "standard | snazzy"
+  },
+  "devDependencies": {
+    "snazzy": "^6.0.0",
+    "standard": "^8.6.0"
+  }
 }
